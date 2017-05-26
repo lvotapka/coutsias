@@ -1,0 +1,3 @@
+mv ./Bin/* .
+make
+mv *.o ./Bin

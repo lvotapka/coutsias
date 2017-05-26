@@ -1,0 +1,16 @@
+Bin/
+MAP
+cheb.f
+dgamma.f
+doit*
+full_pack.f
+gauss.f
+in
+jac.f
+jacini.f
+limits.h
+makefile
+new/
+poly.f
+test.f
+testpoly/
