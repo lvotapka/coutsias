@@ -1,4 +1,0 @@
-dgamma.f
-alog.f csevl.f d1mach.f* d9gaml.f d9lgmc.f d9pak.f d9upak.f dcsevl.f dexp.f
-dint.f dlog.f dsin.f dsqrt.f e9rint.f eprint.f i1mach.f i8save.f initds.f
-inits.f* r1mach.f r9upak.f s88fmt.f seterr.f seteru.f
